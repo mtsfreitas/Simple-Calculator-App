@@ -23,3 +23,12 @@ Ciclo do TDD:
 1. Criar um teste que descreve a funcionalidade desejada.
 2. Escrever o código mínimo necessário para fazer o teste passar.
 3. Refatorar o código para melhorar a qualidade, mantendo o teste passando (se necessário).
+
+## Teste Unitário (Unit Testing):
+Os testes unitários são usados para testar unidades individuais de código, como funções , métodos ou pequenas classes. O objetivo é verificar se essas unidades funcionam corretamente, isoladas de outras partes do sistema.
+
+## Teste de UI (User Interface Testing):
+Os testes de UI focam na interação do usuário com a interface gráfica da aplicação. Eles simulam ações do usuário, como toques na tela, entradas de teclado e navegação, e verificam se a interface responde corretamente.
+
+## Teste de Performance (Performance Testing):
+Os testes de performance visam avaliar como o sistema se comporta em termos de desempenho e escalabilidade. Isso pode envolver a execução de códigos repetidamente para medir o tempo de execução e a eficiência em diferentes cenários. Por exemplo, você pode testar o tempo de resposta de uma função que processa grandes conjuntos de dados para garantir que ela não se torne um gargalo de desempenho.
