@@ -1,4 +1,4 @@
-## XCTest
+## Simple Calculator
 
 ### BDD - Behavior Driven Development
 
