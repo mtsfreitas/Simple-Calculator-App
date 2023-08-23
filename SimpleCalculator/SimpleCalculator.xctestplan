@@ -31,6 +31,13 @@
         "identifier" : "26D1FA262A92F8C600F567B4",
         "name" : "SimpleCalculatorUITests"
       }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:SimpleCalculator.xcodeproj",
+        "identifier" : "26BEABE62A952E3500C588A1",
+        "name" : "SimpleCalculatorSnapshotTests"
+      }
     }
   ],
   "version" : 1

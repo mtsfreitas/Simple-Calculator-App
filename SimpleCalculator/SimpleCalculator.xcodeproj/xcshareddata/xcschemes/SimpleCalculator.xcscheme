@@ -56,6 +56,17 @@
                ReferencedContainer = "container:SimpleCalculator.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "26BEABE62A952E3500C588A1"
+               BuildableName = "SimpleCalculatorSnapshotTests.xctest"
+               BlueprintName = "SimpleCalculatorSnapshotTests"
+               ReferencedContainer = "container:SimpleCalculator.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction

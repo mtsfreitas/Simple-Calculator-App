@@ -1,0 +1,37 @@
+<SimpleCalculator.CalculatorView; frame = (0 0; 568 320); autoresize = W+H; backgroundColor = UIExtendedGrayColorSpace 1 1; layer = <CALayer>>
+   | <UILabel; frame = (20 20; 528 20.3333); text = 'Primeiro Número:'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   | <UITextField; frame = (20 45.3333; 528 34); opaque = NO; gestureRecognizers = <NSArray>; placeholder = Digite o primeiro número; borderStyle = RoundedRect; background = <_UITextFieldSystemBackgroundProvider: backgroundView=<_UITextFieldRoundedRectBackgroundViewNeue; frame = (0 0; 528 34); opaque = NO; autoresize = W+H; userInteractionEnabled = NO; backgroundColor = <UIDynamicSystemColor; name = _textFieldBackgroundColor>; layer = <CALayer>>, fillColor=(null), textfield=<UITextField>>; layer = <CALayer>>
+   |    | <_UITextFieldRoundedRectBackgroundViewNeue; frame = (0 0; 528 34); opaque = NO; autoresize = W+H; userInteractionEnabled = NO; backgroundColor = <UIDynamicSystemColor; name = _textFieldBackgroundColor>; layer = <CALayer>>
+   |    | <UITextFieldLabel; frame = (7 7; 514 20.3333); text = 'Digite o primeiro número'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   |    | <_UITextLayoutCanvasView; frame = (7 2; 514 30); layer = <CALayer>>
+   |    |    | <_UITextLayoutFragmentView; frame = (0 5; 0 21); opaque = NO; layer = <CALayer>>
+   | <UILabel; frame = (20 89.3333; 528 20.3333); text = 'Segundo Número:'; userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
+   | <UITextField; frame = (20 114.667; 528 34); opaque = NO; gestureRecognizers = <NSArray>; placeholder = Digite o segundo número; borderStyle = RoundedRect; background = <_UITextFieldSystemBackgroundProvider: backgroundView=<_UITextFieldRoundedRectBackgroundViewNeue; frame = (0 0; 528 34); opaque = NO; autoresize = W+H; userInteractionEnabled = NO; backgroundColor = <UIDynamicSystemColor; name = _textFieldBackgroundColor>; layer = <CALayer>>, fillColor=(null), textfield=<UITextField>>; layer = <CALayer>>
+   |    | <_UITextFieldRoundedRectBackgroundViewNeue; frame = (0 0; 528 34); opaque = NO; autoresize = W+H; userInteractionEnabled = NO; backgroundColor = <UIDynamicSystemColor; name = _textFieldBackgroundColor>; layer = <CALayer>>
+   |    | <UITextFieldLabel; frame = (7 7; 514 20.3333); text = 'Digite o segundo número'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   |    | <_UITextLayoutCanvasView; frame = (7 2; 514 30); layer = <CALayer>>
+   |    |    | <_UITextLayoutFragmentView; frame = (0 5; 0 21); opaque = NO; layer = <CALayer>>
+   | <UISegmentedControl; frame = (228.667 158.667; 111 32); clipsToBounds = YES; opaque = NO; layer = <CALayer>>
+   |    | <UIImageView; frame = (0 0; 27 32); opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <UIImageView; frame = (27 0; 1 32); opaque = NO; autoresize = LM; userInteractionEnabled = NO; tag = -1030; layer = <CALayer>>
+   |    |    |    | <UIImageView; frame = (0 0; 1 32); opaque = NO; autoresize = W+H; userInteractionEnabled = NO; layer = <CALayer>>
+   |    | <UIImageView; frame = (28 0; 27 32); opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <UIImageView; frame = (27 0; 1 32); opaque = NO; autoresize = LM; userInteractionEnabled = NO; tag = -1030; layer = <CALayer>>
+   |    |    |    | <UIImageView; frame = (0 0; 1 32); opaque = NO; autoresize = W+H; userInteractionEnabled = NO; layer = <CALayer>>
+   |    | <UIImageView; frame = (56 0; 27 32); opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <UIImageView; frame = (27 0; 1 32); opaque = NO; autoresize = LM; userInteractionEnabled = NO; tag = -1030; layer = <CALayer>>
+   |    |    |    | <UIImageView; frame = (0 0; 1 32); opaque = NO; autoresize = W+H; userInteractionEnabled = NO; layer = <CALayer>>
+   |    | <UIImageView; frame = (84 0; 27 32); opaque = NO; userInteractionEnabled = NO; layer = <CALayer>>
+   |    |    | <UIImageView; frame = (27 0; 1 32); alpha = 0; opaque = NO; autoresize = LM; userInteractionEnabled = NO; tag = -1030; layer = <CALayer>>
+   |    |    |    | <UIImageView; frame = (0 0; 1 32); opaque = NO; autoresize = W+H; userInteractionEnabled = NO; layer = <CALayer>>
+   |    | <UISegment; frame = (0 0; 27 32); opaque = NO; layer = <CALayer>>
+   |    |    | <UISegmentLabel; frame = (9.33333 8.33333; 8.33333 15.6667); text = '+'; opaque = NO; userInteractionEnabled = NO; tintColor = <UIDynamicCatalogSystemColor; name = labelColor>; layer = <_UILabelLayer>>
+   |    | <UISegment; frame = (28 0; 27 32); opaque = NO; layer = <CALayer>>
+   |    |    | <UISegmentLabel; frame = (10.3333 8.33333; 6.33333 15.6667); text = '-'; opaque = NO; userInteractionEnabled = NO; tintColor = <UIDynamicCatalogSystemColor; name = labelColor>; layer = <_UILabelLayer>>
+   |    | <UISegment; frame = (56 0; 27 32); opaque = NO; layer = <CALayer>>
+   |    |    | <UISegmentLabel; frame = (10.3333 8.33333; 6.33333 15.6667); text = '*'; opaque = NO; userInteractionEnabled = NO; tintColor = <UIDynamicCatalogSystemColor; name = labelColor>; layer = <_UILabelLayer>>
+   |    | <UISegment; frame = (84 0; 27 32); opaque = NO; layer = <CALayer>>
+   |    |    | <UISegmentLabel; frame = (11.6667 8.33333; 4 15.6667); text = '/'; opaque = NO; userInteractionEnabled = NO; tintColor = <UIDynamicCatalogSystemColor; name = labelColor>; layer = <_UILabelLayer>>
+   | <UIButton; frame = (234 209.667; 100 40); opaque = NO; backgroundColor = UIExtendedGrayColorSpace 0.333333 1; layer = <CALayer>>
+   |    | <UIButtonLabel; frame = (17 9; 66 22); text = 'Calcular'; opaque = NO; userInteractionEnabled = NO; layer = <_UILabelLayer>>
+   | <UILabel; frame = (20 269.667; 528 0); userInteractionEnabled = NO; backgroundColor = UIExtendedGrayColorSpace 0 0; layer = <_UILabelLayer>>
