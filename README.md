@@ -5,11 +5,11 @@ Este projeto é uma calculadora intuitiva e fácil de usar, desenvolvida com foc
 ## Arquitetura MVC
 O App de Calculadora Simples foi desenvolvido seguindo a arquitetura MVC (Model-View-Controller). Essa estrutura organizacional divide a aplicação em três componentes interconectados:
 
-**Model:** Responsável pela lógica de negócios e pela manipulação dos dados. No contexto da calculadora, o Model gerencia os cálculos matemáticos e as operações subjacentes.
+* **Model:** Responsável pela lógica de negócios e pela manipulação dos dados. No contexto da calculadora, o Model gerencia os cálculos matemáticos e as operações subjacentes.
 
-**View:** Encarregada de exibir os elementos visuais ao usuário e de receber interações. Neste caso, a View representa a interface da calculadora, incluindo botões, campos de entrada e resultados exibidos.
+* **View:** Encarregada de exibir os elementos visuais ao usuário e de receber interações. Neste caso, a View representa a interface da calculadora, incluindo botões, campos de entrada e resultados exibidos.
 
-**Controller:** Age como intermediário entre o Model e a View. Ele recebe as ações do usuário na interface e coordena as operações correspondentes no Model, garantindo que os dados e a lógica permaneçam separados.
+* **Controller:** Age como intermediário entre o Model e a View. Ele recebe as ações do usuário na interface e coordena as operações correspondentes no Model, garantindo que os dados e a lógica permaneçam separados.
 
 ## Padrão de interfaces
 * **ViewCode:** Foi utilizado o padrão ViewCode para criar interfaces de usuário de maneira programática, o que resulta em um código limpo e flexível. Isso facilita a manutenção e a implementação de novos recursos.
