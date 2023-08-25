@@ -2,15 +2,15 @@
 
 Este projeto é uma calculadora intuitiva e fácil de usar, desenvolvida com foco na simplicidade e eficiência. Com uma abordagem centrada no código e na qualidade, o app apresenta as seguintes características:
 
-* ViewCode: Utilizamos o padrão ViewCode para criar interfaces de usuário de maneira programática, o que resulta em um código limpo e flexível. Isso facilita a manutenção e a implementação de novos recursos.
+* **ViewCode:** Utilizamos o padrão ViewCode para criar interfaces de usuário de maneira programática, o que resulta em um código limpo e flexível. Isso facilita a manutenção e a implementação de novos recursos.
 
-* Unit Tests: Acreditamos na importância da estabilidade do aplicativo. Por isso, implementamos testes unitários abrangentes que garantem o funcionamento correto dos componentes individuais, proporcionando confiança durante o desenvolvimento.
+* **Unit Tests:** Acreditamos na importância da estabilidade do aplicativo. Por isso, implementamos testes unitários abrangentes que garantem o funcionamento correto dos componentes individuais, proporcionando confiança durante o desenvolvimento.
 
-* UI Tests: A experiência do usuário é fundamental. Nossos testes de interface garantem que a interação do usuário com a calculadora seja sempre suave e livre de erros, independentemente das ações realizadas.
+* **UI Tests:** A experiência do usuário é fundamental. Nossos testes de interface garantem que a interação do usuário com a calculadora seja sempre suave e livre de erros, independentemente das ações realizadas.
 
-* Performance Test: Entendemos a necessidade de um desempenho otimizado. Realizamos testes de desempenho para identificar possíveis gargalos e garantir que o app funcione de maneira eficaz, mesmo em cenários de uso intensivo.
+* **Performance Test:** Entendemos a necessidade de um desempenho otimizado. Realizamos testes de desempenho para identificar possíveis gargalos e garantir que o app funcione de maneira eficaz, mesmo em cenários de uso intensivo.
 
-* Snapshot Tests: A consistência visual é essencial para a identidade do aplicativo. Os testes de captura de tela (snapshot tests) asseguram que as mudanças no layout não afetem negativamente a aparência do app em diferentes dispositivos.
+* **Snapshot Tests:** A consistência visual é essencial para a identidade do aplicativo. Os testes de captura de tela (snapshot tests) asseguram que as mudanças no layout não afetem negativamente a aparência do app em diferentes dispositivos.
 
 Alguns conceitos a respeito de testes:
 
