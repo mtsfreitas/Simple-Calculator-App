@@ -1,6 +1,6 @@
 ## Simple Calculator
 
-- View Code
+- ViewCode
 - Unit Tests
 - UI Tests
 - Performance Test
