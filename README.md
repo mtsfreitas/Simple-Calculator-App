@@ -1,5 +1,12 @@
 ## Simple Calculator
 
+- View Code
+- Unit Tests
+- UI Tests
+- Performance Test
+- Snapshot Tests
+
+
 ### BDD - Behavior Driven Development
 
 O BDD - Behavior Driven Development (Desenvolvimento Guiado por Comportamento) é uma abordagem que visa criar cenários de teste de forma compreensível para qualquer pessoa. Essa metodologia busca responder três perguntas essenciais: "Dado", "Quando" e "Então".
