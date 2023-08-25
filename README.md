@@ -2,7 +2,8 @@
 
 Este projeto é uma calculadora intuitiva e fácil de usar, desenvolvida com foco na simplicidade e eficiência. Com uma abordagem centrada no código e na qualidade, o app apresenta as seguintes características:
 
-## Arquitetura
+# Características do desenvolvimento do app
+## Arquitetura MVC
 O App de Calculadora Simples foi desenvolvido seguindo a arquitetura MVC (Model-View-Controller). Essa estrutura organizacional divide a aplicação em três componentes interconectados:
 
 **Model:** Responsável pela lógica de negócios e pela manipulação dos dados. No contexto da calculadora, o Model gerencia os cálculos matemáticos e as operações subjacentes.
@@ -11,9 +12,10 @@ O App de Calculadora Simples foi desenvolvido seguindo a arquitetura MVC (Model-
 
 **Controller:** Age como intermediário entre o Model e a View. Ele recebe as ações do usuário na interface e coordena as operações correspondentes no Model, garantindo que os dados e a lógica permaneçam separados.
 
-## Metodologia desenvolvida
+## Padrão de desenvolvimento
 * **ViewCode:** Foi utilizado o padrão ViewCode para criar interfaces de usuário de maneira programática, o que resulta em um código limpo e flexível. Isso facilita a manutenção e a implementação de novos recursos.
 
+## Testes implementados
 * **Unit Tests:** Acredito na importância da estabilidade do aplicativo. Por isso, implementei testes unitários abrangentes que garantem o funcionamento correto dos componentes individuais, proporcionando confiança durante o desenvolvimento.
 
 * **UI Tests:** A experiência do usuário é fundamental. Os testes de interface garantem que a interação do usuário com a calculadora seja sempre suave e livre de erros, independentemente das ações realizadas.
