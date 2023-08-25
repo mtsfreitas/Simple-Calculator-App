@@ -22,7 +22,7 @@ O App de Calculadora Simples foi desenvolvido seguindo a arquitetura MVC (Model-
 
 * **Snapshot Tests:** A consistência visual é essencial para a identidade do aplicativo. Os testes de captura de tela (snapshot tests) asseguram que as mudanças no layout não afetem negativamente a aparência do app em diferentes dispositivos.
 
-Alguns conceitos a respeito de testes:
+# Alguns conceitos a respeito de testes:
 
 ### BDD - Behavior Driven Development
 
