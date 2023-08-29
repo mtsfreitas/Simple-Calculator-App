@@ -11,6 +11,9 @@ O App de Calculadora Simples foi desenvolvido seguindo a arquitetura MVC (Model-
 
 * **Controller:** Age como intermediário entre o Model e a View. Ele recebe as ações do usuário na interface e coordena as operações correspondentes no Model, garantindo que os dados e a lógica permaneçam separados.
 
+## Gerenciador de Dependências (Swift Package Manager (SPM)) 
+* Dependência utilizada para realizar teste de Snapshot: https://github.com/pointfreeco/swift-snapshot-testing
+
 ## Padrão de interfaces
 * **ViewCode:** Foi utilizado o padrão ViewCode para criar interfaces de usuário de maneira programática, o que resulta em um código limpo e flexível. Isso facilita a manutenção e a implementação de novos recursos.
 
@@ -20,7 +23,7 @@ O App de Calculadora Simples foi desenvolvido seguindo a arquitetura MVC (Model-
 * **UI Tests:** A experiência do usuário é fundamental. Os testes de interface garantem que a interação do usuário com a calculadora seja sempre suave e livre de erros, independentemente das ações realizadas.
 
 * **Performance Test:** Entendo a necessidade de um desempenho otimizado. Foi realizado testes de desempenho para identificar possíveis gargalos e garantir que o app funcione de maneira eficaz, mesmo em cenários de uso intensivo.
-
+  
 * **Snapshot Tests:** A consistência visual é essencial para a identidade do aplicativo. Os testes de captura de tela (snapshot tests) asseguram que as mudanças no layout não afetem negativamente a aparência do app em diferentes dispositivos.
 
 # Alguns conceitos a respeito de testes:
