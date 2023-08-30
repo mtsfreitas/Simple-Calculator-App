@@ -12,7 +12,7 @@ O App de Calculadora Simples foi desenvolvido seguindo a arquitetura MVC (Model-
 * **Controller:** Age como intermediário entre o Model e a View. Ele recebe as ações do usuário na interface e coordena as operações correspondentes no Model, garantindo que os dados e a lógica permaneçam separados.
 
 ## Gerenciador de Dependências (Swift Package Manager (SPM)) 
-* Dependência utilizada para realizar teste de Snapshot: https://github.com/pointfreeco/swift-snapshot-testing
+* Dependência injetada para realizar testes de Snapshot: https://github.com/pointfreeco/swift-snapshot-testing
 
 ## Padrão de interfaces
 * **ViewCode:** Foi utilizado o padrão ViewCode para criar interfaces de usuário de maneira programática, o que resulta em um código limpo e flexível. Isso facilita a manutenção e a implementação de novos recursos.
