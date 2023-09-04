@@ -1,3 +1,5 @@
+![simple-calculator-app](https://socialify.git.ci/mtsfreitas/simple-calculator-app/image?description=1&descriptionEditable=&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Light)
+
 ## Simple Calculator
 
 Este projeto é uma calculadora intuitiva e fácil de usar, desenvolvida com foco na simplicidade e eficiência. Com uma abordagem centrada no código e na qualidade, o app apresenta as seguintes características:
